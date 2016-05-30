@@ -1,0 +1,40 @@
+/**
+ * 	General Style
+ */
+
+.row {
+	margin-bottom: 5px;
+}
+
+.modal-sm {
+	width: 400px;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: blue;
+}
+
+.container-fluid {
+	width: 1024px;
+}
+
+
+#userinfo-nickname, #userinfo-bestRecord, #userinfo-totalTimes {
+	font-size: 20px;
+}
+
+.scroll-able {
+	height: 450px;
+	overflow-y: scroll;
+}
+
+.main-component {
+}
+
+.cursor_pointer {
+	cursor: pointer;
+}

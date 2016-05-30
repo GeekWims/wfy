@@ -1,0 +1,17 @@
+
+#main-header {
+	height: 60px;
+	line-height: 60px;
+	border-bottom: 1px solid black;
+
+	background-color: #50a3a2;;
+}
+
+#header-title {
+	width: 300px;
+	margin: auto;
+}
+
+#header-title h1 {
+	text-align: center;
+}

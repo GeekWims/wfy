@@ -1,0 +1,11 @@
+#game_page_wrap {
+	min-height: 500px;
+}
+
+#page_game, #page_end, #page_loading, #page_success, #page_fail {
+		display: none;
+}
+	
+#btn-start {
+	width: 50%;
+}
